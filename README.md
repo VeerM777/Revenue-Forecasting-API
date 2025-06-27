@@ -9,3 +9,12 @@ It includes:
 
 ✅ Support for real-time revenue forecasting
 
+Example input format: 
+{
+  "date": "2025-07-01",
+  "product_category": "Cosmetic",
+  "region": "North",
+  "agent_id": "A4",
+  "marketing_spend": 21000,
+  "lead_count": 170
+}
